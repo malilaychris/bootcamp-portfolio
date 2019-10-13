@@ -59,6 +59,7 @@ body {
 
 main {
     position: relative;
+    min-height: 77.4vh;
 }
 
 h1 {
@@ -102,7 +103,7 @@ footer {
     width: 100%;
     padding: 4em 0 0.8em;
     background: #666;
-    border-top: 7px solid #4aaaa5;
+    border-top: 8px solid #4aaaa5;
     color: #ddd;
     font-size: 0.8em;
     text-align: center;
