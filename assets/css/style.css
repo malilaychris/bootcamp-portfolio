@@ -94,8 +94,28 @@ h1 {
 
 .section-about img {
     float: left;
-    height: 12em;
+    width: 12em;
     padding-right: 1.6em;
+}
+
+.project {
+    position: relative;
+    margin: 0 2em 2em 0;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+
+.portfolio-projects img {
+    width: 20em;
+}
+
+.project__label {
+    position: absolute;
+    width: 98.5%;
+    bottom: 1.2em;
+    padding: 1em 0;
+    background: #4aaaa5;
 }
 
 .contact-field {
